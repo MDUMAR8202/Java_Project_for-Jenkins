@@ -9,7 +9,7 @@ System.out.println("Wellcome to Devops");
    System.out.println(".......................");
    System.out.println("wellcome code in jenkins");
   String str1="true";
-  int x=Integer.parseInteger(str1);
+  int x=Integer.parseInt(str1);
    System.out.println(x);
   
 }
