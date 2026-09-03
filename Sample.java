@@ -8,8 +8,8 @@ System.out.println("Wellcome to Devops");
   System.out.println(s==str);
    System.out.println(".......................");
    System.out.println("wellcome code in jenkins");
-  String str="true";
-  int x=Integer.parseInteger(str);
+  String str1="true";
+  int x=Integer.parseInteger(str1);
    System.out.println(x);
   
 }
