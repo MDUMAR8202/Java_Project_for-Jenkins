@@ -8,7 +8,7 @@ System.out.println("Wellcome to Devops");
   System.out.println(s==str);
    System.out.println(".......................");
    System.out.println("wellcome code in jenkins");
-  Sttring str="true";
+  String str="true";
   int x=Integer.parseInteger(str);
    System.out.println(x);
   
